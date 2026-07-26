@@ -13,84 +13,77 @@ size-adjust: 109%;
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
+.flavor {fill: #7ee787; font-style: italic;}
 text, tspan {white-space: pre;}
 </style>
-<title>ASCII art reproduction</title>
-<desc>ASCII art reproduced as SVG text, monospace font.</desc>
+<title>ASCII art portrait</title>
+<desc>Rizwan's photo reproduced as ASCII art, monospace font.</desc>
 <rect width="1000px" height="530px" fill="#161b22" rx="15"/>
 <g id="image" transform="translate(0,40)">
 <text x="10" y="12" xml:space="preserve" font-family="monospace" font-size="8" fill="#ffffff">
-<tspan x="5" dy="0">dxxo.   cOOkkko    ;OOkx0x.   ;xkkkOo    lOOxxxl.   'xddxxo.   'xkkkko    :dxkkkc</tspan>
-<tspan x="5" dy="9.6">xxoo.   cOOOOOo    ,OOkk0x.   ;xkkOOo    lkxolo:    ,xxdxxd.   ,xkkOko    cxkkOOl  </tspan>
-<tspan x="5" dy="9.6">kxxx.   :OOO0Od.   ,O0OkOx.   ;kkOOkl    cxl..      ,kxxocc.   ,kkkOOo.  .lkkOO0c   .</tspan>
-<tspan x="5" dy="9.6">kOOx.   ;OOO0Ox.   'xkxxOk.   ;kkxkOl    ... .      .:'....    ;OOOOOd   .lkkkOO:   </tspan>
-<tspan x="5" dy="9.6">OO0O'   ;kOO00x.   'xkxxOx.   .',oxl;                          'dOOO0d   ;xkkOOk</tspan>
-<tspan x="5" dy="9.6">O0Ok,   'kO000k.   'xkxxOk.      .                             .;:dOKd   .xOOOO0;</tspan>
-<tspan x="5" dy="9.6">OOOO;   'k00O0k.   'xkxxOx.       .                       ...   . ;.oc   .xOOO0O, </tspan>
-<tspan x="5" dy="9.6">OOkk;   'k000Ok'   .xkxdl'    . .       ...     ..     .    ..      ':   'kOOOOO'</tspan>
-<tspan x="5" dy="9.6">kxOO:   .k00OOk,   .dxc.     ..      ....         ..      . .   ..   .   'xOOkkk.</tspan>
-<tspan x="5" dy="9.6">kOOkc   .xOOOOO,   .o:       ..  ..  . .       .                         .dOkddo</tspan>
-<tspan x="5" dy="9.6">0xlc,   .okOOOO;   .,        ..   '. ..    '..     .             ..      .ldolc;    </tspan>
-<tspan x="5" dy="9.6">l. ..   .oOOO0O;    .    ..,;. .....       ...      .              ..     ..;::'    </tspan>
-<tspan x="5" dy="9.6">..'dl   .'dOOOO;     .    .   .    .. ...              .            ..     ..,</tspan>
-<tspan x="5" dy="9.6">:;.od     ..lOk;      .  .                      .,   .... ..  .. .          ..;'    </tspan>
-<tspan x="5" dy="9.6">dc...     . .,.    .   .  .  .'... .     . .',. ', ..  ..'.;''..   </tspan>
-<tspan x="5" dy="9.6">ccc,;                     .  .,'..'.     '..;o,....,. .'.;'co:''.  </tspan>
-<tspan x="5" dy="9.6">   .      ..          .........   ...,. . ,oxo'.,llok;,..;dxkol,......</tspan>
-<tspan x="5" dy="9.6">          .'                 ...  ...'::;;,,dc;ldkOxc,.,coK00Okl,  ..</tspan>
-<tspan x="5" dy="9.6">                     . .       .........,,l'lxOxkOkO00KKklKK0k:...</tspan>
-<tspan x="5" dy="9.6">       .  '.     ....   .      '...':l,..cd:,O0OdlloxOKXXKOo,',,,,.</tspan>
-<tspan x="5" dy="9.6">       ..        ...... . .......'.lododolc:cxxc',oOKKKXNKoc0N;..,</tspan>
-<tspan x="5" dy="9.6">       ..    .      ..  .k0X0dc,.':OKKKKKOOkk0O,'dxKXKKKXKk,kOko;o'</tspan>
-<tspan x="5" dy="9.6">       ... ...    ....  d0KNNXKKx.:OKKKXXXXXXXXK0O0KKKKKKK0l'O00Okl</tspan>
-<tspan x="5" dy="9.6">    .   ....        ....:KKXKOOOKc:O00KKXXXXXNXXKKKXXXK000K0l'k0OOd.</tspan>
-<tspan x="5" dy="9.6">      ..  .. ..      ... lKXd'.lX0ck000KKXXNNNXXXXXNNK00KKXXK:.O0ko.</tspan>
-<tspan x="5" dy="9.6">                          cKKxl.,odkOO00KXXNWWNNXXXXXKKKOKK0o,o0Ox:</tspan>
-<tspan x="5" dy="9.6">                  ..       .dKXX0XKkkOO0KKXXNWWWNXXXXXKKXXK0xxO0ko.                        ..</tspan>
-<tspan x="5" dy="9.6">                             'x00KxkkOO00KKKXXNNNNNXNXXXXX0XKxxoo;</tspan>
-<tspan x="5" dy="9.6">'.    .                          oKKkkO0KKKKKXXXNNNXXXX0000kdoo::.      .</tspan>
-<tspan x="5" dy="9.6">.     .   .  ..  .     .    ...  .KKKkk0KKKKKKXXXXX00OOOOkkOkooo'</tspan>
-<tspan x="5" dy="9.6">.  .     . .....    .        .    xKKKOkOKKKKKKXKKKXXXXKK0Okdc;'</tspan>
-<tspan x="5" dy="9.6">....     ..,,..   ....  . ..     .dKKKK0xxk00K0KKKKKKKK0K00Oko;                            .;</tspan>
-<tspan x="5" dy="9.6">   . ........ ..... ..          :xxKKKKK0OxddxO0KKKXXXXNNXKOkl.                        .   ..</tspan>
-<tspan x="5" dy="9.6"> .   ',.;'... .....            .0kxKKKKKKK0Okxddxk0KXXXXK0Oxc.</tspan>
-<tspan x="5" dy="9.6">.. .... . ...                  ,KOkKKKKKKKKKKK00Okddddll:,..</tspan>
-<tspan x="5" dy="9.6">  ...      .              .    .K0OKKKKKKKKKKKKXKKK0Oo;lkOkxc;:</tspan>
-<tspan x="5" dy="9.6">  ..                  .   .     lK0KKKKKKKKK00KKXXKOoclxO0kxlo;                          .</tspan>
-<tspan x="5" dy="9.6">,. ..                            cKKKKKKKKKKKKK00OxdddxO0Okxo;</tspan>
-<tspan x="5" dy="9.6">.                                 ,OXKKKKKKKKKKKKK0kdxO0Okkkc</tspan>
-<tspan x="5" dy="9.6">                  .                .c0KKKKKKKKK00Okxk00OkOk,</tspan>
-<tspan x="5" dy="9.6">                      .         ..    ,o0XXKK00OOkO0KX0Ox:</tspan>
-<tspan x="5" dy="9.6">               .    .              ..    'lk0KKKKKXX0d:.</tspan>
-<tspan x="5" dy="9.6">             .      .          .    . .      ..''..</tspan>
-<tspan x="5" dy="9.6">        . .. .    . .  .        .    .</tspan>
+<tspan x="5" dy="0">                                                            </tspan>
+<tspan x="5" dy="9.6">                                                            </tspan>
+<tspan x="5" dy="9.6">                              ...                           </tspan>
+<tspan x="5" dy="9.6">                   ..              ...                      </tspan>
+<tspan x="5" dy="9.6">                ..                  ...                     </tspan>
+<tspan x="5" dy="9.6">               ..                     ..                    </tspan>
+<tspan x="5" dy="9.6">                        .:::+#++::.                         </tspan>
+<tspan x="5" dy="9.6">             .      .:+#%%%%@@@@@%%#:                       </tspan>
+<tspan x="5" dy="9.6">                  .+###%%%%@@%%%%%%@%:   .                  </tspan>
+<tspan x="5" dy="9.6">                  :##%%%%@@@@@@@@@@@@#  .                   </tspan>
+<tspan x="5" dy="9.6">                  :##%%%%%%%@%%%##+##%+                     </tspan>
+<tspan x="5" dy="9.6">                  ##+++::.:+#%#::.:++#%.                    </tspan>
+<tspan x="5" dy="9.6">                 .##+++::+::#%%++:.#+#%++                   </tspan>
+<tspan x="5" dy="9.6">               ++.###:+::#+#%%@%%###%%%%%%                  </tspan>
+<tspan x="5" dy="9.6">              ++#:#%%%%%%%%#%@@@%@@@@@@%%%                  </tspan>
+<tspan x="5" dy="9.6">               #++#%%%%%%%####%#%@@@@@@%%%                  </tspan>
+<tspan x="5" dy="9.6">                #++#%%%%%%%#++###%%%%%%%%%                  </tspan>
+<tspan x="5" dy="9.6">                ##########++++####++#%%%                    </tspan>
+<tspan x="5" dy="9.6">                   +#####++++#####%####                     </tspan>
+<tspan x="5" dy="9.6">                    +++#######++#%%##+                      </tspan>
+<tspan x="5" dy="9.6">                     :::+++####%%##+++                      </tspan>
+<tspan x="5" dy="9.6">                     +:...:::::+::::++                      </tspan>
+<tspan x="5" dy="9.6">                   . ++:::::::::::++#:.                     </tspan>
+<tspan x="5" dy="9.6">                ...  :++++:::++++####.......                </tspan>
+<tspan x="5" dy="9.6">         .......  .   :+++##+######+. ...........           </tspan>
+<tspan x="5" dy="9.6">   .........  .         .:+###%#%#.    ................     </tspan>
+<tspan x="5" dy="9.6">.................           +%%%+     ....................  </tspan>
+<tspan x="5" dy="9.6">...................         :%%+     ...................... </tspan>
+<tspan x="5" dy="9.6">....................          .    .........................</tspan>
+<tspan x="5" dy="9.6">.......................      ...  ........................  </tspan>
+<tspan x="5" dy="9.6">. .........................    ..........................   </tspan>
+<tspan x="5" dy="9.6">   ........................     .........................   </tspan>
+<tspan x="5" dy="9.6">   ........................     .........................   </tspan>
+<tspan x="5" dy="9.6">    ................. ....       ........................   </tspan>
+<tspan x="5" dy="9.6">     .....................       .......................    </tspan>
+<tspan x="5" dy="9.6">       ..... .............       ....................       </tspan>
+<tspan x="5" dy="9.6">              . ..... . .         ..................        </tspan>
+<tspan x="5" dy="9.6">               . .                ...............           </tspan>
+<tspan x="5" dy="9.6">                                  ........                  </tspan>
+<tspan x="5" dy="9.6">                                  ..... .         .....     </tspan>
+<tspan x="5" dy="9.6">                                   .                        </tspan>
+<tspan x="5" dy="9.6">                                      ..                    </tspan>
+<tspan x="5" dy="9.6">                     .             ....                     </tspan>
+<tspan x="5" dy="9.6">                                   ..                       </tspan>
 </text>
 </g>
 <g id="info" transform="translate(0,0)">
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">pranav@catoo</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux, Windows 11, Android 16</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">20 years, 6 months, 6 days</tspan>
+<tspan x="390" y="30">rizwan@ryx9</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Arch Linux</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">21 years, 2 months, 18 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Love for Code</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Software Developer</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">NeoVim, VSCode</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">NeoVim</tspan>
 <tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Python, JavaScript,Solidity,C++</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">English, German</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Python, JavaScript</tspan>
 <tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Linux Ricing, Creating Saas Products</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">HomeServer, Smart devices</tspan>
 <tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">pranavkunjir93@gmail.com</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">pranav-kunjir</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LeetCode</tspan>.<tspan class="cc"> ................................... </tspan><tspan class="value">PranavKunjir</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">CodeForces</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Pranavkunjir7</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">pranavkunjir7</tspan>
-<tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">19</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">18</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">1</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">222</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">72</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">446,276</tspan> ( <tspan class="addColor" id="loc_add">523,178</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">76,902</tspan><tspan class="delColor">--</tspan> )
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">rizzwanabdullah@gmail.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Professional</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">rizwan.abdullah@cognivelle.com</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="flavor">$ git commit -m "it works on my machine"</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="flavor">Shell: zsh · Editor: nvim btw · Bugs: 0 (untested)</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="flavor">Status: 200 OK, mostly awake</tspan>
 </text>
 </g>
 </svg>
