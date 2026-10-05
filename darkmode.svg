@@ -1,51 +1,51 @@
 
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
-<style>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 985 530" width="985" height="530" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
+<style type="type/css">
+<![CDATA[
 @font-face {
-src: local('Consolas'), local('Consolas Bold');
-font-family: 'ConsolasFallback';
-font-display: swap;
--webkit-size-adjust: 109%;
-size-adjust: 109%;
+  font-family: 'ConsolasFallback';
+  src: local('Consolas'), local('Consolas Bold');
+  font-display: swap;
 }
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
-.flavor {fill: #7ee787; font-style: italic;}
-text, tspan {white-space: pre;}
+.key { fill: #ffa657; }
+.value { fill: #a5d6ff; }
+.addColor { fill: #3fb950; }
+.delColor { fill: #f85149; }
+.cc { fill: #616e7f; }
+.flavor { fill: #7ee787; font-style: italic; }
+text, tspan { white-space: pre; }
+]]>
 </style>
 <title>Arch Linux System Info</title>
 <desc>System info reproduced as ASCII art, monospace font.</desc>
-<rect width="1000px" height="530px" fill="#161b22" rx="15"/>
+<rect width="985" height="530" fill="#161b22" rx="15"/>
 <g id="image" transform="translate(0,40)">
 <text x="50" y="40" xml:space="preserve" font-family="monospace" font-size="14" fill="#1793d1" font-weight="bold">
-<tspan x="50" dy="16.8">                   -`                   </tspan>
-<tspan x="50" dy="16.8">                  .o+`                  </tspan>
-<tspan x="50" dy="16.8">                 `ooo/                  </tspan>
-<tspan x="50" dy="16.8">                `+oooo:                 </tspan>
-<tspan x="50" dy="16.8">               `+oooooo:                </tspan>
-<tspan x="50" dy="16.8">               -+oooooo+:               </tspan>
-<tspan x="50" dy="16.8">             `/:-:++oooo+:              </tspan>
-<tspan x="50" dy="16.8">            `/++++/+++++++:             </tspan>
-<tspan x="50" dy="16.8">           `/++++++++++++++:            </tspan>
-<tspan x="50" dy="16.8">          `/+++ooooooooooooo/`          </tspan>
-<tspan x="50" dy="16.8">         ./ooosssso++osssssso+`         </tspan>
-<tspan x="50" dy="16.8">        .oossssso-````/ossssss+`        </tspan>
-<tspan x="50" dy="16.8">       -osssssso.      :ssssssso.       </tspan>
-<tspan x="50" dy="16.8">      :osssssss/        osssso+++.      </tspan>
-<tspan x="50" dy="16.8">     /ossssssss/        +ssssooo/-      </tspan>
-<tspan x="50" dy="16.8">   `/ossssso+/:-        -:/+osssso+-    </tspan>
-<tspan x="50" dy="16.8">  `+sso+:-`                 `.-/+oso:   </tspan>
-<tspan x="50" dy="16.8"> `++:.                           `-/+/  </tspan>
-<tspan x="50" dy="16.8"> .`                                 `/  </tspan>
+<tspan x="50" dy="16.8">                    -`                    </tspan>
+<tspan x="50" dy="16.8">                   .o+`                   </tspan>
+<tspan x="50" dy="16.8">                  `ooo/                   </tspan>
+<tspan x="50" dy="16.8">                 `+oooo:                  </tspan>
+<tspan x="50" dy="16.8">                `+oooooo:                 </tspan>
+<tspan x="50" dy="16.8">                -+oooooo+:                </tspan>
+<tspan x="50" dy="16.8">              `/:-:++oooo+:               </tspan>
+<tspan x="50" dy="16.8">             `/++++/+++++++:              </tspan>
+<tspan x="50" dy="16.8">            `/++++++++++++++:             </tspan>
+<tspan x="50" dy="16.8">           `/+++ooooooooooooo/`           </tspan>
+<tspan x="50" dy="16.8">          ./ooosssso++osssssso+`          </tspan>
+<tspan x="50" dy="16.8">         .oossssso-````/ossssss+`         </tspan>
+<tspan x="50" dy="16.8">        -osssssso.      :ssssssso.        </tspan>
+<tspan x="50" dy="16.8">       :osssssss/        osssso+++.       </tspan>
+<tspan x="50" dy="16.8">      /ossssssss/        +ssssooo/-       </tspan>
+<tspan x="50" dy="16.8">    `/ossssso+/:-        -:/+osssso+-     </tspan>
+<tspan x="50" dy="16.8">   `+sso+:-`                  `.-/+oso:   </tspan>
+<tspan x="50" dy="16.8">  `++:.                            `-/+/  </tspan>
+<tspan x="50" dy="16.8"> .`                                   `/  </tspan>
 </text>
 </g>
 <g id="info" transform="translate(0,0)">
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">rizwan@ryx9</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="30">rizwan@ryx9 ———————————————————————————————————————————-—-</tspan>
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Arch Linux</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">21 years, 4 months, 26 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Love for Code</tspan>
@@ -54,7 +54,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="150" class="cc">. </tspan>
 <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Python, JavaScript</tspan>
 <tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="310">- Contact ———————————————————————————————————————————————-—-</tspan>
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">rizzwanabdullah@gmail.com</tspan>
 <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Professional</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">rizwan.abdullah@cognivelle.com</tspan>
 <tspan x="390" y="390" class="cc">. </tspan><tspan class="flavor">$ git commit -m "it works on my machine"</tspan>
