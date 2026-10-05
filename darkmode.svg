@@ -1,3 +1,4 @@
+
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
 <style>
@@ -16,55 +17,30 @@ size-adjust: 109%;
 .flavor {fill: #7ee787; font-style: italic;}
 text, tspan {white-space: pre;}
 </style>
-<title>ASCII art portrait</title>
-<desc>Rizwan's photo reproduced as ASCII art, monospace font.</desc>
+<title>Arch Linux System Info</title>
+<desc>System info reproduced as ASCII art, monospace font.</desc>
 <rect width="1000px" height="530px" fill="#161b22" rx="15"/>
 <g id="image" transform="translate(0,40)">
-<text x="10" y="12" xml:space="preserve" font-family="monospace" font-size="8" fill="#ffffff">
-<tspan x="5" dy="0">                                                            </tspan>
-<tspan x="5" dy="9.6">                                                            </tspan>
-<tspan x="5" dy="9.6">                              ...                           </tspan>
-<tspan x="5" dy="9.6">                   ..              ...                      </tspan>
-<tspan x="5" dy="9.6">                ..                  ...                     </tspan>
-<tspan x="5" dy="9.6">               ..                     ..                    </tspan>
-<tspan x="5" dy="9.6">                        .:::+#++::.                         </tspan>
-<tspan x="5" dy="9.6">             .      .:+#%%%%@@@@@%%#:                       </tspan>
-<tspan x="5" dy="9.6">                  .+###%%%%@@%%%%%%@%:   .                  </tspan>
-<tspan x="5" dy="9.6">                  :##%%%%@@@@@@@@@@@@#  .                   </tspan>
-<tspan x="5" dy="9.6">                  :##%%%%%%%@%%%##+##%+                     </tspan>
-<tspan x="5" dy="9.6">                  ##+++::.:+#%#::.:++#%.                    </tspan>
-<tspan x="5" dy="9.6">                 .##+++::+::#%%++:.#+#%++                   </tspan>
-<tspan x="5" dy="9.6">               ++.###:+::#+#%%@%%###%%%%%%                  </tspan>
-<tspan x="5" dy="9.6">              ++#:#%%%%%%%%#%@@@%@@@@@@%%%                  </tspan>
-<tspan x="5" dy="9.6">               #++#%%%%%%%####%#%@@@@@@%%%                  </tspan>
-<tspan x="5" dy="9.6">                #++#%%%%%%%#++###%%%%%%%%%                  </tspan>
-<tspan x="5" dy="9.6">                ##########++++####++#%%%                    </tspan>
-<tspan x="5" dy="9.6">                   +#####++++#####%####                     </tspan>
-<tspan x="5" dy="9.6">                    +++#######++#%%##+                      </tspan>
-<tspan x="5" dy="9.6">                     :::+++####%%##+++                      </tspan>
-<tspan x="5" dy="9.6">                     +:...:::::+::::++                      </tspan>
-<tspan x="5" dy="9.6">                   . ++:::::::::::++#:.                     </tspan>
-<tspan x="5" dy="9.6">                ...  :++++:::++++####.......                </tspan>
-<tspan x="5" dy="9.6">         .......  .   :+++##+######+. ...........           </tspan>
-<tspan x="5" dy="9.6">   .........  .         .:+###%#%#.    ................     </tspan>
-<tspan x="5" dy="9.6">.................           +%%%+     ....................  </tspan>
-<tspan x="5" dy="9.6">...................         :%%+     ...................... </tspan>
-<tspan x="5" dy="9.6">....................          .    .........................</tspan>
-<tspan x="5" dy="9.6">.......................      ...  ........................  </tspan>
-<tspan x="5" dy="9.6">. .........................    ..........................   </tspan>
-<tspan x="5" dy="9.6">   ........................     .........................   </tspan>
-<tspan x="5" dy="9.6">   ........................     .........................   </tspan>
-<tspan x="5" dy="9.6">    ................. ....       ........................   </tspan>
-<tspan x="5" dy="9.6">     .....................       .......................    </tspan>
-<tspan x="5" dy="9.6">       ..... .............       ....................       </tspan>
-<tspan x="5" dy="9.6">              . ..... . .         ..................        </tspan>
-<tspan x="5" dy="9.6">               . .                ...............           </tspan>
-<tspan x="5" dy="9.6">                                  ........                  </tspan>
-<tspan x="5" dy="9.6">                                  ..... .         .....     </tspan>
-<tspan x="5" dy="9.6">                                   .                        </tspan>
-<tspan x="5" dy="9.6">                                      ..                    </tspan>
-<tspan x="5" dy="9.6">                     .             ....                     </tspan>
-<tspan x="5" dy="9.6">                                   ..                       </tspan>
+<text x="50" y="40" xml:space="preserve" font-family="monospace" font-size="14" fill="#1793d1" font-weight="bold">
+<tspan x="50" dy="16.8">                   -`                   </tspan>
+<tspan x="50" dy="16.8">                  .o+`                  </tspan>
+<tspan x="50" dy="16.8">                 `ooo/                  </tspan>
+<tspan x="50" dy="16.8">                `+oooo:                 </tspan>
+<tspan x="50" dy="16.8">               `+oooooo:                </tspan>
+<tspan x="50" dy="16.8">               -+oooooo+:               </tspan>
+<tspan x="50" dy="16.8">             `/:-:++oooo+:              </tspan>
+<tspan x="50" dy="16.8">            `/++++/+++++++:             </tspan>
+<tspan x="50" dy="16.8">           `/++++++++++++++:            </tspan>
+<tspan x="50" dy="16.8">          `/+++ooooooooooooo/`          </tspan>
+<tspan x="50" dy="16.8">         ./ooosssso++osssssso+`         </tspan>
+<tspan x="50" dy="16.8">        .oossssso-````/ossssss+`        </tspan>
+<tspan x="50" dy="16.8">       -osssssso.      :ssssssso.       </tspan>
+<tspan x="50" dy="16.8">      :osssssss/        osssso+++.      </tspan>
+<tspan x="50" dy="16.8">     /ossssssss/        +ssssooo/-      </tspan>
+<tspan x="50" dy="16.8">   `/ossssso+/:-        -:/+osssso+-    </tspan>
+<tspan x="50" dy="16.8">  `+sso+:-`                 `.-/+oso:   </tspan>
+<tspan x="50" dy="16.8"> `++:.                           `-/+/  </tspan>
+<tspan x="50" dy="16.8"> .`                                 `/  </tspan>
 </text>
 </g>
 <g id="info" transform="translate(0,0)">
